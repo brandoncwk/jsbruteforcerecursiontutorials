@@ -11,7 +11,6 @@ const assert = require('assert');
 
 const checkAnagram = (inputString1, inputString2) => {    
   // Add your code here
-  
 }
 
 // DO NOT MODIFY CODE BELOW
